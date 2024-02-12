@@ -1,4 +1,4 @@
-# Предсказание оплаты заявки на сайте Repetit.ru
+# Предсказание оплаты заявки на сайте Repetit.ru Ткачук Илья Сергеевич @ilyatkachuk
 [ipynb](https://github.com/tkachuk45/repetit/blob/main/repetit_project.ipynb)
 
 ## Описание проекта
